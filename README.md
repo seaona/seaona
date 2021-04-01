@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Solidity and Dapp development
+- 🌱 I’m learning Solidity and Dapp development
 - 👯 I’m looking to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
-- 📫 How to reach me: @seaona11
+- 📫 How to reach me: @seaona11 (Twitter)
 
 **Languages and Tools:**  
 
