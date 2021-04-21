@@ -1,12 +1,14 @@
 ### Hi there 👋
-dfgdfgdfgdf gg fgsfdghjghj
+I am Mariona, and Industrial Engineer. I love programming, learning and teaching. I enjoy researching about technology and society and I try to create a positive impact in the world by developing and collaborating with interesting projects in the space.
 
-<img align="right" alt="GIF" src="https://gph.is/2QQJR37" width="480" height="480" class="giphy-embed"/>
+
+<img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
+
 
 - 👨🏻‍💻 I’m currently working as Automation Test Engineer
 - 🚀 I’m thrilled by the Bitcoin project
 - 🌱 I’m currently learning Solidity and Dapp development
-- 📊 I'm following Web 3.0 disruptions and potential
+- 📊 I'm following Web 3.0 disruptions
 - 👯 I’m looking to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: @seaona11 (Twitter)
