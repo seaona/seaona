@@ -11,11 +11,10 @@ I am Mariona, an Industrial Engineer. I love programming, learning and teaching.
 - 📊 I'm following Web 3.0 disruptions
 - 👯 I’m looking to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
-- 📫 How to reach me: @seaona11 (Twitter)
-
+- 📫 How to reach me: @seaona11 (Twitter)\
 
 \
-
+&nbsp;
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,7 +25,7 @@ I am Mariona, an Industrial Engineer. I love programming, learning and teaching.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 
 \
-\
+&nbsp;
 
 **My GitHub Stats:**
 <p>
