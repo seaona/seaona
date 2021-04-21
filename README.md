@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Mariona, an Industrial Engineer. I love programming, learning and teaching. I enjoy researching about technology and society and I try to create a positive impact in the world by developing and collaborating with interesting projects in the space.
+\
+&nbsp;
 
 
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
