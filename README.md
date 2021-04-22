@@ -5,9 +5,9 @@ I am Mariona, an Industrial Engineer. I love programming, learning and teaching.
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
 
 
-- 👨🏻‍💻 I’m currently working as Automation Test Engineer
+- 👨🏻‍💻 I’m working as Automation Test Engineer in the software industry
 - 🚀 I’m thrilled by the Bitcoin project
-- 🌱 I’m currently learning Solidity and Dapp development
+- 🌱 I’m learning Solidity and Dapp development
 - 📊 I'm following Web 3.0 disruptions
 - 👯 I’m looking to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
