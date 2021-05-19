@@ -9,7 +9,7 @@ I am Mariona, an Industrial Engineer. I love programming, learning and teaching.
 - 🚀 I’m thrilled by the Bitcoin project
 - 🌱 I’m learning Solidity and Dapp development
 - 📊 I'm following Web 3.0 disruptions
-- 👯 I’m looking to collaborate on Ethereum and Bitcoin development projects
+- 👯 I’m open to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: @seaona11 (Twitter)
 
