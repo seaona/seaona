@@ -10,6 +10,7 @@ I am Mariona, an Industrial Engineer. I love programming, learning and teaching.
 - 🌱 I’m learning Solidity and Dapp development
 - 📊 I'm following Web 3.0 disruptions
 - 👯 I’m open to collaborate on Ethereum and Bitcoin development projects
+- 🔧 I'm exploring React.js as a Frontend solution for my projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: @seaona11 (Twitter)
 
