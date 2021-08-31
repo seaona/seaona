@@ -4,11 +4,10 @@ I am Mariona, Industrial Engineer and Cypherpunk.
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
 
 
-- 👨🏻‍💻 I work as Automation Test Engineer (front and back) in the software industry
-- 🚀 I’m thrilled by the Bitcoin project
+- 👨🏻‍💻 I work as automation test engineer in the software industry
 - 🔧 I build tools for facilitating Bitcoin development
 - 📊 I'm following Web 3.0 disruptions
-- 🌱 I’m flirting with Solidity and Dapp development
+- 🚀 I’m flirting with Solidity and Dapp development
 - 👯 I’m open to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [@seaona11](https://twitter.com/seaona11)
