@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mariona, Industrial Engineer and Cypherpunk.
+I am Mariona, Industrial Engineer.
 
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
 
