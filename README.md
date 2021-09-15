@@ -5,9 +5,9 @@ I am Mariona, Industrial Engineer.
 
 
 - 👨🏻‍💻 I work as automation test engineer in the software industry
-- 🔧 I build tools for facilitating Bitcoin development
+- 🔧 I explore and build tools for facilitating Bitcoin development
 - 📊 I'm following Web 3.0 disruptions
-- 🚀 I’m flirting with Solidity and Dapp development
+- 🚀 I’m develpo in Solidity and Ethereum ecosystem
 - 👯 I’m open to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [@seaona11](https://twitter.com/seaona11)
