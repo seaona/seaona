@@ -1,14 +1,8 @@
 ### Hi there 👋
-I am Mariona, Industrial Engineer.
+I am Mariona.
 
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
 
-
-- 👨🏻‍💻 I work as automation test engineer in the software industry
-- 🔧 I explore and build tools for facilitating Bitcoin development
-- 📊 I'm following Web 3.0 disruptions
-- 🚀 I’m develpo in Solidity and Ethereum ecosystem
-- 👯 I’m open to collaborate on Ethereum and Bitcoin development projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [@seaona11](https://twitter.com/seaona11)
 
