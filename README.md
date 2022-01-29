@@ -1,10 +1,5 @@
-### Hi there 👋
-I am Mariona.
-
 <img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
 
-- 💬 Ask me about anything! 
-- 📫 How to reach me: [@seaona11](https://twitter.com/seaona11)
 
 ### Cypherpunk's Manifesto
 >We the Cypherpunks are dedicated to building anonymous systems.  We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money.
