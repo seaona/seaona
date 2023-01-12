@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/seaona/seaona/blob/main/cat-github.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3orif3gcfEZLNYoP8A/giphy.gif" width="408" height="318" />
 
 
 ### Cypherpunk's Manifesto
